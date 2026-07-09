@@ -21,5 +21,11 @@ This Power BI dashboard analyzes the relationship between social media usage and
 - Increased daily social media usage is associated with higher depression scores.
 - Higher social comparison frequency is linked with increased worry and depression.
 
+## Dashboard
+<img width="686" height="401" alt="dashboard png" src="https://github.com/user-attachments/assets/bfb4d5a1-ec5e-41b8-9983-f42c3a2740f6" />
+
+
+
+
 
 
